@@ -19,8 +19,8 @@ __LDS Business College__, Salt Lake City, UT
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID <!--Just 8 more years hang in there!-->
+`Expected 2029` `8 more years`
+__Brigham Young University - Idaho__, Rexburg, ID 
 
 - 4.0 Major GPA
 
